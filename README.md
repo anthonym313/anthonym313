@@ -16,7 +16,7 @@ As a software engineer, I enjoy problem solving and contributing to projects tha
 
 
 #### My Github stats:
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonym313&theme=react&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>_______________________<img src='https://ect.co.in/wp-content/uploads/2017/02/careers-in-computer-programming.jpg' alt='programming' width="270"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonym313&theme=react&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/><img src='https://ect.co.in/wp-content/uploads/2017/02/careers-in-computer-programming.jpg' alt='programming' width="270"/>
 
 <!--
 **anthonym313/anthonym313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
