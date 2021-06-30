@@ -10,7 +10,7 @@
 - 📫 How to reach me: [anthony.a.s.martin@gmail.com](https://mail.google.com/a/?view=cm&fs=1&to=anthony.a.s.martin@gmail.com)
 
 
-
+#### My Github stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonym313&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
