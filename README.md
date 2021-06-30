@@ -1,8 +1,11 @@
 ### Hi there, I'm Anthony Martin 👋🏿
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyamartin/)
 
 #### I am happy that you have found my profile!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=anthonym313.381526421) 
 
+I am a full-stack software engineer. I enjoy programming, playing chess, drone-photography and traveling.
 
+As a software engineer, I enjoy problem solving and contributing to projects that are innovative and provide solutions that make a positive impact in people's lives. 
 
 - 🔭 I’m currently working on a project to clone soundcloud with my own special theme using JavaScript and React;
 - 🌱 I’m currently learning Python3 language;
