@@ -11,7 +11,7 @@ As a software engineer, I enjoy problem solving and contributing to projects tha
 - 🌱 I’m currently learning Python3 language;
 - 💬 Ask me about whatever you would like, I am happy to help;
 - ⚡ Fun fact: Before I was a Software Engineer, I was in the Product Engineering and Construction/Civil Engineering Management Industries.
-- 📝 [Resume.]()
+- 📝 [Resume.](https://docs.google.com/document/d/e/2PACX-1vTRlrq8dHPIGnhGaChtbQQpYfNme63HlXM2XobUdih8OGma1NB6hjlVloCO3Bq0qk8YIFU645AoduZ4/pub)
 - 📫 How to reach me 👉🏿 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyamartin/)[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/a/?view=cm&fs=1&to=anthony.a.s.martin@gmail.com)
 
 
