@@ -8,7 +8,7 @@ I am a full-stack software engineer. I enjoy programming, playing chess, drone-p
 
 As a software engineer, I enjoy problem solving and contributing to projects that are innovative and provide solutions that make a positive impact in people's lives. 
 
-- 🔭 I’m currently working on a project to clone instagram with my own special theme using Python/Flask and React;
+- 🔭 I’m currently working on an invoice maker app using Python/Flask and React;
 - 🌱 I’m currently learning Python3 language;
 - 💬 Ask me about whatever you would like, I am happy to help;
 - ⚡ Fun fact: Before I was a Software Engineer, I was in the Product Engineering and Construction/Civil Engineering Management Industries.
