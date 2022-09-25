@@ -11,8 +11,8 @@ I am a full-stack software engineer. I enjoy programming, playing chess, drone-p
 
 As a software engineer, I enjoy problem solving and contributing to projects that are innovative and provide solutions that make a positive impact in people's lives. 
 
-- 🔭 I’m currently working on a Business Application;
-- 🌱 I’m currently learning java;
+- 🔭 I’m currently a Software Engineer at Cognizant Technology Solutions;
+- 🌱 I’m currently studing AWS services;
 - 💬 Ask me about whatever you would like, I am happy to help;
 - ⚡ Fun fact: Before I was a Software Engineer, I was in the Product Engineering and Construction/Civil Engineering Management Industries.
 - 📝 [Resume.](https://docs.google.com/document/d/e/2PACX-1vRLrAZ-P8efRJ36d1fO-DuQO4k86hBR0gccKeetxwKboVTsfb51W82qF64-XeV7Y-FyU6sUJcLVjlcg/pub)
