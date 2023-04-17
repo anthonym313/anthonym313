@@ -11,8 +11,8 @@ I am a full-stack software engineer. I enjoy programming, playing chess, drone-p
 
 As a software engineer, I enjoy problem solving and contributing to projects that are innovative and provide solutions that make a positive impact in people's lives. 
 
-- 🔭 I’m currently a Software Engineer at Cognizant Technology Solutions;
-- 🌱 I’m currently studing AWS services;
+- 🔭 I’m currently a Software Engineer at App Agency Pro;
+- 🌱 I’m currently studying AWS services;
 - 💬 Ask me about whatever you would like, I am happy to help;
 - ⚡ Fun fact: Before I was a Software Engineer, I was in the Product Engineering and Construction/Civil Engineering Management Industries.
 - 📝 [Resume.](https://docs.google.com/document/d/e/2PACX-1vRLrAZ-P8efRJ36d1fO-DuQO4k86hBR0gccKeetxwKboVTsfb51W82qF64-XeV7Y-FyU6sUJcLVjlcg/pub)
@@ -21,6 +21,8 @@ As a software engineer, I enjoy problem solving and contributing to projects tha
 
 ### My Github stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonym313&theme=react&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/><img src='https://ect.co.in/wp-content/uploads/2017/02/careers-in-computer-programming.jpg' alt='programming' width="270"/>
+
+![image](https://github.com/anthonym313/cert-badges/blob/main/aws-certified-cloud-practitioner%20(2).png?raw=true)
 
 ### Follow!!! I follow back!
 
