@@ -22,7 +22,7 @@ As a software engineer, I enjoy problem solving and contributing to projects tha
 ### My Github stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonym313&theme=react&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/><img src='https://ect.co.in/wp-content/uploads/2017/02/careers-in-computer-programming.jpg' alt='programming' width="270"/>
 
-![image](https://github.com/anthonym313/cert-badges/blob/main/aws-certified-cloud-practitioner%20(2).png?raw=true)
+![image](https://raw.githubusercontent.com/anthonym313/cert-badges/main/aws-certified-solutions-architect-associate%20(1).png)![image](https://github.com/anthonym313/cert-badges/blob/main/aws-certified-cloud-practitioner%20(2).png?raw=true)
 
 ### Follow!!! I follow back!
 
