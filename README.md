@@ -7,12 +7,12 @@
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)![image](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![image](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)![image](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ### I am happy that you have found my profile!
 
-I am a full-stack software engineer. I enjoy programming, playing chess, drone-photography and traveling.
+I am a full-stack software engineer and AWS Solutions Architect. I enjoy programming, playing chess, drone-photography and traveling.
 
 As a software engineer, I enjoy problem solving and contributing to projects that are innovative and provide solutions that make a positive impact in people's lives. 
 
 - 🔭 I’m currently a Software Engineer at App Agency Pro;
-- 🌱 I’m currently studying AWS services;
+- 🌱 I’m currently Learning Advanced Machine Learning;
 - 💬 Ask me about whatever you would like, I am happy to help;
 - ⚡ Fun fact: Before I was a Software Engineer, I was in the Product Engineering and Construction/Civil Engineering Management Industries.
 - 📝 [Resume.](https://docs.google.com/document/d/e/2PACX-1vSdyhVzjUSgNO21A4KbxqFZu3BoVm69Ryk4b177jjKdlqTaQfA52mA7M4Ps5zbc-zWUJUZVCM1jxMfY/pub)
