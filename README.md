@@ -12,7 +12,7 @@ I am a full-stack software engineer and AWS Solutions Architect. I enjoy program
 As a software engineer, I enjoy problem solving and contributing to projects that are innovative and provide solutions that make a positive impact in people's lives. 
 
 - 🔭 I’m currently a Software Engineer at App Agency Pro;
-- 🌱 I’m currently Learning Advanced Machine Learning;
+- 🌱 I’m currently Learning Azure AI architecture;
 - 💬 Ask me about whatever you would like, I am happy to help;
 - ⚡ Fun fact: Before I was a Software Engineer, I was in the Product Engineering and Construction/Civil Engineering Management Industries.
 - 📝 [Resume.](https://docs.google.com/document/d/e/2PACX-1vSdyhVzjUSgNO21A4KbxqFZu3BoVm69Ryk4b177jjKdlqTaQfA52mA7M4Ps5zbc-zWUJUZVCM1jxMfY/pub)
@@ -26,10 +26,3 @@ As a software engineer, I enjoy problem solving and contributing to projects tha
 
 ### Follow!!! I follow back!
 
-<!--
-**anthonym313/anthonym313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
